@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I am higly motivated Frontend Developer who always open to learn,work with new techologies and projects. I think day without coding is waste a time
+I am higly motivated Frontend Developer who always open to learn and work with new techologies and projects. I think day without coding is waste a time
 
 *   🌍  I'm based in Baku
 *   🖥️  See my portfolio at [My portfolio](http://anarmikailov.netlify.app/)
