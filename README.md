@@ -47,4 +47,4 @@ I am higly motivated Frontend Developer who always open to learn,work with new t
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/AnarMikailov/React-Responsive-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnarMikailov&repo=React-Responsive-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/AnarMikailov/React-Responsive-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnarMikailov&repo=React-Responsive-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AnarMikailov/Fully-Responsive-Restuarant-site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnarMikailov&repo=Fully-Responsive-Restuarant-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
